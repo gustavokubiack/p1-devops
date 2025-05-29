@@ -4,7 +4,6 @@ Este projeto tem como objetivo demonstrar o ciclo completo de uma aplicação Py
 
 ---
 
----
 
 ## 🧾 Pré-requisitos
 
