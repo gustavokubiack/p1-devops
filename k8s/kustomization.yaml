@@ -6,7 +6,7 @@ resources:
 images:
 - name: gustavokubiack/p1-devops
   newName: gustavokubiack/p1-devops
-  newTag: 0ca11bb21971413f14722c9130d957fa80ee0280
+  newTag: f543dba41f454a504c1dc6598fc06ee8b2696092
 - name: p1-devops
   newName: gustavokubiack/p1-devops
   newTag: 74663fd74c1aed93cc3515856e660acc32387899
